@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on our My Honorian Buddy website.<br><br>I hope I can do a good job on our project.<br>
+Creating projects rn.<br>
 
 
 # 💻 Tech Stack:
